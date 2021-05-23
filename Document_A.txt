@@ -1,0 +1,5 @@
+The data has been collected from various sources
+It could be structured or unstructured data
+It could reside anywhere locally, SAN, USB devices
+It is fetched only when its required for analytics 
+ 

@@ -1,0 +1,9 @@
+For Data at Rest, the analytics can be applied in batches whenever desired. 
+The infracture does not required to keep it on all the time.
+The collection process is similar to Data at process, but differs in analytics applied
+In this case the analytics is applied in real time.
+a batsman playing cricket, could generate the data about the stance,
+cricket shot  it plays against pacer, spinner etc. 
+The data is continuously generated and it is analyzed in real time.
+In such cases the analytics can be used to customize the requirement in real time
+Amazon analytics about the customers products. 
